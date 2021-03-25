@@ -1,2 +1,2 @@
-# webappservice
-usar exemplo de deploy
+# apinode
+Static Site no Azure
